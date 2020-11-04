@@ -6,5 +6,4 @@
   <img align="left" alt="VK" width="38px"src="https://media.giphy.com/media/29pcvEmID8PNB2W3u5/giphy.gif"/>
 </a>
 <br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/Wrh9kE5Sg4N8YS8Vol/giphy.gif" width="250" height="250" />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif" width="250" height="275" />
+<img align="rigth" alt="GIF" src="https://media.giphy.com/media/Wrh9kE5Sg4N8YS8Vol/giphy.gif" width="500" height="500" />
