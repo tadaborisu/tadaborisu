@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there <https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif>
 <!--
 **tadaborisu/tadaborisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
