@@ -2,9 +2,19 @@
 <a href="https://t.me/haxahx">
   <img align="left" alt="Telegram" width="30px"src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif"/>
 </a>
-<a href="https://t.me/haxahx">
+<a href="https://vk.com/tadaborisu">
   <img align="left" alt="VK" width="42px"src="https://media.giphy.com/media/29pcvEmID8PNB2W3u5/giphy.gif"/>
 </a>
+<a href="https://www.youtube.com/channel/UCIgXF8t4Ow-y0Hi27MNDfHA?view_as=subscriber">
+  <img align="left" alt="YT" width="42px"src="https://media.giphy.com/media/29pcvEmID8PNB2W3u5/giphy.gif"/>
+</a>
+<a href="https://vk.com/tadaborisu">
+  <img align="left" alt="Instagram" width="42px"src="https://media.giphy.com/media/lsAmuPLNrPlA7kIj7w/giphy.gif"/>
+</a>
+<a href="https://www.instagram.com/tadaborisu/">
+  <img align="left" alt="VK" width="42px"src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif"/>
+</a>
+
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Wrh9kE5Sg4N8YS8Vol/giphy.gif" width="500" height="500"/>
 
