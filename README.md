@@ -8,8 +8,9 @@
 <a href="https://www.instagram.com/tadaborisu/">
   <img align="left" alt="Instagram" width="30px"src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif"/>
 </a><br/>
-<img align="right" alt="Instagram" width="500px" https://media.giphy.com/media/Y1RYqPyQ0ZqBr4hN71/giphy.gif"/>
-
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/Y1RYqPyQ0ZqBr4hN71/giphy.gif" width="500" height="320" />
+<img align="right" alt="Instagram" width="500px" "/>
+                                                  
 **Languages and Tools:**<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
