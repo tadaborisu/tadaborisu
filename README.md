@@ -20,3 +20,9 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadaborisu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/tadaborisu/Blackscreen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/tadaborisu/Sorting-Visualizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
