@@ -11,7 +11,6 @@
 <hr>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tadaborisu&show_icons=true&theme=graywhite)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?raw=true" width="250" height="250">
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadaborisu&amp;layout=compact&amp;theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me:
