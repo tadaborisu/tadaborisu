@@ -2,7 +2,7 @@
 ## Im 17 y.o. python/golang junior dev
 ### Contact me:
 Telegram: <a href="https://t.me/haxahx">
-  <img align="left" alt="Telegram" width="30px"src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif"/>
+  <img align="left" alt="Telegram" width="30px"src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif">
           </a>
 Mail <img src="https://media.giphy.com/media/Y2hje37U7Z7IYaaAOK/giphy.gif"  width="25px">:tadaborisu@protonmail.com
 
