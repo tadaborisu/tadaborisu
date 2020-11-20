@@ -1,14 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif"  width="75px">
-<br>
 ## Im 17 y.o. python/golang junior dev
-<br>
 ### Contact me <img src="https://media.giphy.com/media/Y2hje37U7Z7IYaaAOK/giphy.gif"  width="75px">:
+
 <a href="https://t.me/haxahx">
   <img align="left" alt="Telegram" width="30px"src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif"/>
 </a>
-<a href="https://t.me/haxahx">
-  <img align="left" alt="Telegram" width="30px"src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif"/>
-</a>
+Mail: tadaborisu@protonmail.com
 
 <br/>
 
