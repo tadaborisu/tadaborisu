@@ -15,6 +15,8 @@
 ## Contact me:
 <a href="https://t.me/haxahx"> Telegram </a>
 <br>
+<a href="https://vk.com/tadaborisu"> VK </a>
+<br>
 <br>
 <code>
 Mail - tadaborisu@protonmail.com
