@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadaborisu&amp;layout=compact&amp;hide_border=true;theme=graywhite;)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me:
-<a href="https://t.me/haxahx"> Telegram </a>
+<a href="https://t.me/googolplexcoperbytes"> Telegram </a>
 <br>
 <a href="https://vk.com/tadaborisu"> VK </a>
 <br>
