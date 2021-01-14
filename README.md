@@ -3,7 +3,7 @@
 
 <a href="https://vk.com/tadaborisu"><img src="https://img.icons8.com/color/50/000000/vk-com.png"></a>
 <a href="https://www.instagram.com/tadaborisu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
-<a href="https://vk.com/channel/UCIgXF8t4Ow-y0Hi27MNDfHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://www.youtube.com/channel/UCIgXF8t4Ow-y0Hi27MNDfHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href="https://t.me/tadaborisu"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"></a> <br>
 <code>Mail - tadaborisu@protonmail.com</code><br>
 <code>Chat with me - https://t.me/coperbytes</code>
