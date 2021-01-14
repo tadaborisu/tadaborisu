@@ -6,4 +6,4 @@
 <a href="https://vk.com/tadaborisu"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href="https://t.me/googolplexcoperbytes"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"></a> <br>
 <code>Mail - tadaborisu@protonmail.com</code><br>
-<code>Write me here - https://t.me/coperbytes</code>
+<code>Chat with me - https://t.me/coperbytes</code>
