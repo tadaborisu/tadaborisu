@@ -5,7 +5,7 @@
 <a href="https://t.me/tadaborisu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
 
 <hr>
-<h2>My tech stack</h2>
+<h3>My tech stack</h3>
 
 ![UnrealEngine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
